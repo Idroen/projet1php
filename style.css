@@ -324,6 +324,8 @@ h4{
   justify-content: center;
   margin-bottom: 2%;
   margin-top: 2%;
+  
+  
 }
 .infos p{
   width: 200px;
@@ -576,6 +578,9 @@ footer a img{
   /****Richard****/
 
 
+  .infos{
+    font-size: 3rem;
+  } 
   .parent{ 
     display: flex;
     justify-content: space-around;
